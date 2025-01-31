@@ -2,7 +2,7 @@
 a = 2
 print(a)
 # Output: 2
-# Integer
+
 b = 9223372036854775807
 print(b)
 # Output: 9223372036854775807
